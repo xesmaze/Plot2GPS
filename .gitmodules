@@ -1,0 +1,3 @@
+[submodule "Plot2GPS"]
+	path = Plot2GPS
+	url = git@github.com:xesmaze/Plot2GPS.git
