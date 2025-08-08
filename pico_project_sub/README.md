@@ -227,3 +227,5 @@ sections = [
      "- Use safe mode to bypass main.py if it locks up (hold BOOTSEL on reset for certain firmware modes)")
 ]
 ```
+
+### @CyberAgSynBio Lab- 2025, Formatting and content revision credit ChatGPT o4-mini
